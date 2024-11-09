@@ -44,3 +44,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 5. npm install react-countup
 6. npm install chart.js
 7. npm install react-chartjs-2
+8. npx shadcn@latest add sheet
