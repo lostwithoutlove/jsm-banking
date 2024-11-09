@@ -39,3 +39,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 1. npx create-next-app@latest ./ --typescript --tailwind --eslint
 2. npx shadcn-ui@latest init
+3. npm install query-string
+4. npm install react count-up (wasted 30 mins on this stupid error)
+5. npm install react-countup
+6. npm install chart.js
+7. npm install react-chartjs-2
